@@ -1,1 +1,3 @@
-# Bissec-o---Fortran
+# Bisseccao-Fortran
+
+Este repositório contém uma implementação em Fortran de um método numérico para encontrar raízes de funções utilizando o método da bissecção. O programa foi desenvolvido para resolver uma equação derivada de um circuito elétrico, onde os parâmetros como indutância, capacitância, tempo e um valor alvo são definidos. A solução é refinada iterativamente, e os detalhes do processo (iterações e valores intermediários) são registrados em um arquivo CSV para análise. O código ilustra conceitos de programação moderna em Fortran, como modularidade com funções internas e controle de fluxo robusto, e pode ser utilizado como base para estudos ou aprimoramento de métodos numéricos em problemas de engenharia.
